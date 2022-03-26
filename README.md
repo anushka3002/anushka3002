@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">A Full Stack Web Developer from Rewari, Haryana</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@anushkasakshi2003](https://medium.com/@anushkasakshi2003)
 
