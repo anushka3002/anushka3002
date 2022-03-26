@@ -2,13 +2,21 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka3002&label=Profile%20views&color=0e75b6&style=flat" alt="anushkad3002" /> </p>
-<img align="left" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Gd2hyB8OPSPaUr4MGxH8MnbMD2IwBT5eDA&usqp=CAU"></img>
+<img align="left" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw444M3kY_lXmDICVlQ08lQXPG_-Bqm-RSLg&usqp=CAU"></img>
 <br><br>
 <h1 style="color:blue" align="right">Hi 👋, I'm Anushka Priya from Rewari, Haryana
    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px" style="max-width: 100%;"></a>
 </h1>
 <h3 align="right">MERN Stack Developer</h3>
 <br><br>
+
+
+
+
+
+
+
+
 
 
 
