@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhtg209&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhtg209" /> </p>
 <img align="left" alt="coding" width="400" src="https://media.istockphoto.com/videos/young-man-cartoon-hd-animation-video-id1030543114?s=640x640"></img>
 <br><br>
-<h1 style="color:blue" align="right">Hi 👋, I'm Rishabh Gupta
+<h1 style="color:blue" align="right">Hi 👋, I'm Anushka Priya from Rewari, Haryana
    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px" style="max-width: 100%;"></a>
 </h1>
 <h3 align="right">MERN Stack Developer</h3>
@@ -14,7 +14,7 @@
 
 
 # Brief about me...!!!
-I have Bachelors degree in Computer Science. Dedicated  and  determined  aspiring  full-stack developer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
+I am dedicated  and  determined  aspiring  full-stack developer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
 <br><br>
 
 
@@ -26,7 +26,7 @@ I have Bachelors degree in Computer Science. Dedicated  and  determined  aspirin
 
 - 📫 How to reach me **rishabhg.1996@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/13bMKOlK1Y37z71SRiDI1dvkhZwU4NISD/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1Rblz_177dQgODmLfPdAF5Cx6BeNu9PXV/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [Link](https://rishabhtg209.github.io/PortFolio/)
 <br>
