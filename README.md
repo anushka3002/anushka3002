@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://media.istockphoto.com/videos/young-man-cartoon-hd-animation-video-id1030543114?s=640x640) -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhtg209&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhtg209" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka3002&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhtg209" /> </p>
 <img align="left" alt="coding" width="400" src="https://media.istockphoto.com/videos/young-man-cartoon-hd-animation-video-id1030543114?s=640x640"></img>
 <br><br>
 <h1 style="color:blue" align="right">Hi 👋, I'm Anushka Priya from Rewari, Haryana
