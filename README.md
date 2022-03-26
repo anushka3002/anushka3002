@@ -32,7 +32,7 @@ I am dedicated  and  determined  aspiring  full-stack developer with a specializ
 
 - 💬 Ask me about **ReactJs, HTML, CSS, JavaScipt**
 
-- 📫 How to reach me **rishabhg.1996@gmail.com**
+- 📫 How to reach me **anushka2457@gmail.com**
 
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1Rblz_177dQgODmLfPdAF5Cx6BeNu9PXV/view?usp=sharing)
 
