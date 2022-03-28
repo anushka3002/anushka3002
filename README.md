@@ -36,7 +36,7 @@ I am dedicated  and  determined  aspiring  full-stack developer with a specializ
 
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1Rblz_177dQgODmLfPdAF5Cx6BeNu9PXV/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [Link](https://chipper-croquembouche-c83348.netlify.app/)
+- 👨‍💻 All of my projects are available at [View Portfolio](https://chipper-croquembouche-c83348.netlify.app/)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
