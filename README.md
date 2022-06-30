@@ -1,7 +1,6 @@
 <!-- ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Gd2hyB8OPSPaUr4MGxH8MnbMD2IwBT5eDA&usqp=CAU) -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka3002&label=Profile%20views&color=0e75b6&style=flat" alt="anushkad3002" /> </p>
 
 <br><br>
 <h1 style="color:blue" align="center">Hi 👋, I'm Anushka Priya from Rewari, Haryana
