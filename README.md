@@ -29,7 +29,7 @@ I am dedicated  and  determined  aspiring  full-stack developer with a specializ
 
 - 🌱 I’m currently learning **Full Stack course**
 
-- 💬 Ask me about **ReactJs, HTML, CSS, JavaScipt**
+- 💬 Ask me about **ReactJs, NextJs, Typescript, Flutter, HTML, CSS, JavaScipt**
 
 - 📫 How to reach me **anushka2457@gmail.com**
 
