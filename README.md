@@ -33,7 +33,7 @@ I am dedicated  and  determined  aspiring  full-stack developer with a specializ
 
 - 📫 How to reach me **anushka2457@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1Rblz_177dQgODmLfPdAF5Cx6BeNu9PXV/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1kFwttry_xhdiMWPahBhaC9K4Ibe3KlI-/view?usp=share_link)
 
 - 👨‍💻 All of my projects are available at [View Portfolio](https://anushka-priya-anushka3002.vercel.app/)
 <br>
