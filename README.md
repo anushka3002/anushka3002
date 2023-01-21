@@ -27,7 +27,7 @@ I am dedicated  and  determined  aspiring  full-stack developer with a specializ
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"></img>
 
-- 🌱 I’m currently learning **Full Stack course**
+- 🌱 I’m currently working as **Frontend Engineer at Chace**
 
 - 💬 Ask me about **ReactJs, NextJs, Typescript, Flutter, HTML, CSS, JavaScipt**
 
