@@ -35,7 +35,7 @@ I am dedicated  and  determined  aspiring  full-stack developer with a specializ
 
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1kFwttry_xhdiMWPahBhaC9K4Ibe3KlI-/view?usp=share_link)
 
-- 👨‍💻 All of my projects are available at [View Portfolio](https://anushka-priya-anushka3002.vercel.app/)
+- 👨‍💻 All of my projects are available at [View Portfolio](https://anushka-portfolio-sigma.vercel.app/)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
