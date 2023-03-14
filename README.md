@@ -33,7 +33,7 @@ I am dedicated  and  determined full-stack developer with a specialization  in M
 
 - 📫 How to reach me **anushka2457@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1kFwttry_xhdiMWPahBhaC9K4Ibe3KlI-/view?usp=share_link)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1oLUJryRbx2Y_B4AXMqi0Uhn_Lf33xdbH/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [View Portfolio](https://anushka-portfolio-sigma.vercel.app/)
 <br>
