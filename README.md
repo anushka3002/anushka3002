@@ -27,7 +27,7 @@ I am dedicated  and  determined full-stack developer with a specialization  in M
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"></img>
 
-- 🌱 I’m currently working as **Frontend Engineer at Chace**
+- 🌱 I’m currently working as **Frontend Engineer at Flocco**
 
 - 💬 Ask me about **ReactJs, NextJs, Typescript, Flutter, HTML, CSS, JavaScipt**
 
